@@ -26,9 +26,9 @@ public class chem {
                  
              }
          } 
-         for(int i=0;i<;i++)
+         for(int i=0;i<arr.length;i++)
          {
-            System.out.print(newarr[i]);
+            System.out.print(newarr[i]+" ");
          }
     
 }
